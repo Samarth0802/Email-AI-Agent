@@ -31,7 +31,7 @@ email-agent/
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Samarth0802/Email-AI-Agent.git
 cd email-agent
 npm install
 ```
@@ -135,6 +135,3 @@ The agent will automatically call the email tool and send the email.
 
 ---
 
-## 📄 License
-
-MIT
